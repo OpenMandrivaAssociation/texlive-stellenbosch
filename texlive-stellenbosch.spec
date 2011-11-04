@@ -129,6 +129,7 @@ for logos.
 %doc %{_texmfdistdir}/source/latex/stellenbosch/USsummary-1.0a-src.zip
 %doc %{_texmfdistdir}/source/latex/stellenbosch/USthesis-4.2-src.zip
 %doc %{_texmfdistdir}/source/latex/stellenbosch/UStitle-1.0-src.zip
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -139,3 +140,5 @@ for logos.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
