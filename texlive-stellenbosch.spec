@@ -1,12 +1,12 @@
-# revision 23900
+# revision 25486
 # category Package
 # catalog-ctan /macros/latex/contrib/stellenbosch
-# catalog-date 2011-09-10 10:43:29 +0200
+# catalog-date 2012-02-23 16:44:15 +0100
 # catalog-license lppl
-# catalog-version 4.2
+# catalog-version 10
 Name:		texlive-stellenbosch
-Version:	4.2
-Release:	2
+Version:	10
+Release:	1
 Summary:	Stellenbosch thesis bundle
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stellenbosch
@@ -108,7 +108,7 @@ for logos.
 %doc %{_texmfdistdir}/doc/latex/stellenbosch/USlogos-doc-4.0.pdf
 %doc %{_texmfdistdir}/doc/latex/stellenbosch/USnomencl-1.1.pdf
 %doc %{_texmfdistdir}/doc/latex/stellenbosch/USsummary-1.0a.pdf
-%doc %{_texmfdistdir}/doc/latex/stellenbosch/USthesis-4.2.pdf
+%doc %{_texmfdistdir}/doc/latex/stellenbosch/USthesis-4.3.pdf
 %doc %{_texmfdistdir}/doc/latex/stellenbosch/UStitle-1.0.pdf
 %doc %{_texmfdistdir}/doc/latex/stellenbosch/templates/masters-sample.zip
 %doc %{_texmfdistdir}/doc/latex/stellenbosch/templates/report-sample.zip
@@ -117,7 +117,7 @@ for logos.
 %doc %{_texmfdistdir}/source/latex/stellenbosch/USlogos-4.0-src.zip
 %doc %{_texmfdistdir}/source/latex/stellenbosch/USnomencl-1.1-src.zip
 %doc %{_texmfdistdir}/source/latex/stellenbosch/USsummary-1.0a-src.zip
-%doc %{_texmfdistdir}/source/latex/stellenbosch/USthesis-4.2-src.zip
+%doc %{_texmfdistdir}/source/latex/stellenbosch/USthesis-4.3-src.zip
 %doc %{_texmfdistdir}/source/latex/stellenbosch/UStitle-1.0-src.zip
 
 #-----------------------------------------------------------------------
