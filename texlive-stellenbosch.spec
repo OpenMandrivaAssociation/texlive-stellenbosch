@@ -6,7 +6,7 @@
 # catalog-version 10
 Name:		texlive-stellenbosch
 Version:	10
-Release:	7
+Release:	8
 Summary:	Stellenbosch thesis bundle
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stellenbosch
