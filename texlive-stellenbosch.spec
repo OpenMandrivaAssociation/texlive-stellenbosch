@@ -1,6 +1,6 @@
 Name:		texlive-stellenbosch
 Version:	11a
-Release:	2
+Release:	3
 Summary:	Stellenbosch thesis bundle
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stellenbosch
