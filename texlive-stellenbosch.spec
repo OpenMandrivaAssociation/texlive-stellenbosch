@@ -1,5 +1,5 @@
 Name:		texlive-stellenbosch
-Version:	66379
+Version:	68039
 Release:	1
 Summary:	Stellenbosch thesis bundle
 Group:		Publishing
