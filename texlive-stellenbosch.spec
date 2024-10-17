@@ -3,7 +3,7 @@ Version:	68039
 Release:	1
 Summary:	Stellenbosch thesis bundle
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stellenbosch
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/stellenbosch
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stellenbosch.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stellenbosch.doc.r%{version}.tar.xz
